@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+#form{
+	width: 500px;
+	margin-left: 20%;
+}
+.text{
+	width:200px;
+}
+.button{
+	margin-left: 50px;
+	width: 75px;
+}

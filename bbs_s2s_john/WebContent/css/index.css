@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+body{
+	width:700px;
+	border: 1px red solid;
+}
+a{ 
+	text-decoration: none;
+}
+a:hover{
+	text-decoration:underline;
+}
+table{
+	border-collapse: collapse;
+	border:1px black solid;
+	margin-left: 100px;
+	width: 500px;
+	text-align: center;
+	margin-top: 5px;
+	
+}
+td{
+border:1px black solid;
+}
+tr{
+border:1px black solid;
+}
+#head{
+	margin-left: 100px;
+	width: 500px;
+	height: 17px;
+}
+#head .a{
+	margin-left: 10px;
+	float: right;
+}
